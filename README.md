@@ -13,5 +13,5 @@ My interests mostly revolve around programming, math, gaming, and comics.
 ## ⚙️ My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,javascript,html,css)](https://skillicons.dev)
 
-## 💡 Tech Stacks I've Worked With
-[![My Skills](https://skillicons.dev/icons?i=flask,nodejs,vue)](https://skillicons.dev)
+## 💡 Other Tools I've Worked With
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,mysql,mongodb,flask,nodejs,vue,tailwind)](https://skillicons.dev)
