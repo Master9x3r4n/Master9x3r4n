@@ -1,16 +1,25 @@
-## Hello there 👋
+## Hello There! 🌊
 
-<!--
-**Master9x3r4n/Master9x3r4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm <a href="https://www.linkedin.com/in/stephen-claro/">Stephen</a>, an aspiring programmer.
 
-Here are some ideas to get you started:
+I'm currently an undergrad computer science student in DLSU Manila.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly do personal projects based on what I feel like I want to create. Some of them are shared in github while others aren't because the code isn't as polished yet.
+
+I'm still learning the ropes for a lot of more professional skills, but I'm able to learn alot.
+
+My interests mostly revolve around programming, math, gaming, and comics.
+
+## ⚙️ My Skills ⚙️
+- C
+- Java
+- Kotlin
+- Python
+- C++
+- Javascript
+- HTML, CSS
+
+## 💡 Tech Stacks I've Worked With 💡
+- Python Flask
+- NodeJS
+- Vue JS
