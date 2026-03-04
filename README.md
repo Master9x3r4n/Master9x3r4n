@@ -10,16 +10,8 @@ I'm still learning the ropes for a lot of more professional skills, but I'm able
 
 My interests mostly revolve around programming, math, gaming, and comics.
 
-## ⚙️ My Skills ⚙️
-- C
-- Java
-- Kotlin
-- Python
-- C++
-- Javascript
-- HTML, CSS
+## ⚙️ My Skills
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,javascript,html,css)](https://skillicons.dev)
 
-## 💡 Tech Stacks I've Worked With 💡
-- Python Flask
-- NodeJS
-- Vue JS
+## 💡 Tech Stacks I've Worked With
+[![My Skills](https://skillicons.dev/icons?i=flask,nodejs,vue)](https://skillicons.dev)
