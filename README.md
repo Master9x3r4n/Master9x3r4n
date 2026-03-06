@@ -13,7 +13,7 @@ My interests mostly revolve around programming, math, gaming, and comics.
 ### 💻 Check Out [My Portfolio Website](https://master9x3r4n.vercel.app/index.html)
 
 ## ⚙️ My Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,javascript,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,javascript,html,css)](https://skillicons.dev)
 
 ## 💡 Other Tools I've Worked With
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,mysql,mongodb,flask,nodejs,vue,tailwind)](https://skillicons.dev)
