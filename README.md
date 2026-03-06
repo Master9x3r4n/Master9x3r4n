@@ -10,7 +10,7 @@ I'm still learning the ropes for a lot of more professional skills, but I'm able
 
 My interests mostly revolve around programming, math, gaming, and comics.
 
-### 💻 Check Out [My Portfolio](https://master9x3r4n.vercel.app/index.html)
+### 💻 Check Out [My Portfolio Website](https://master9x3r4n.vercel.app/index.html)
 
 ## ⚙️ My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,javascript,html,css)](https://skillicons.dev)
