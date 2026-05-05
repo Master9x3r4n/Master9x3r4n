@@ -16,8 +16,10 @@ My interests mostly revolve around programming, math, gaming, and comics.
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,javascript,html,css)](https://skillicons.dev)
 
 ## 💡 Other Tools I've Worked With
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,mysql,mongodb,flask,nodejs,vue,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,mysql,mongodb,flask,nodejs,bun,vue,svelte,tailwind)](https://skillicons.dev)
 
 ## Current Projects
 ### 🗿 Check Out My Newest [C# PROJECT](https://github.com/Master9x3r4n/tower-of-hanoi-cs)
-### 🏢 In Development: My [First Web Application](https://github.com/Master9x3r4n/fantastic-dorms)
+### 🏢 Newly Released: [Fantastic Dorms](https://github.com/Master9x3r4n/fantastic-dorms)
+### ⚙️ Currently Working On: Chrome Extensions
+
