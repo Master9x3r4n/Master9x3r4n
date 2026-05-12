@@ -1,4 +1,8 @@
-[![My GitHub Stats](https://gitpk.vercel.app/og?username=Master9x3r4n)](https://gitpk.vercel.app/?username=Master9x3r4n)
+<div align="center">
+  <a href="https://gitpk.vercel.app/?username=Master9x3r4n">
+    <img src="https://gitpk.vercel.app/api/readme?username=Master9x3r4n" alt="My GitHub Stats" />
+  </a>
+</div>
 GitHub stats from [Gitpeek](https://gitpk.vercel.app/?username=Master9x3r4n)
 
 ## Hello There! 🌊
