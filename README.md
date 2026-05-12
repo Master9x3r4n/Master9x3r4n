@@ -1,3 +1,6 @@
+[![My GitHub Stats](https://gitpk.vercel.app/og?username=Master9x3r4n)](https://gitpk.vercel.app/?username=Master9x3r4n)
+GitHub stats from [Gitpeek](https://gitpk.vercel.app/?username=Master9x3r4n)
+
 ## Hello There! 🌊
 
 I'm <a href="https://www.linkedin.com/in/stephen-claro/">Stephen</a>, an aspiring programmer.
