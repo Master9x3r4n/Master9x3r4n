@@ -29,5 +29,5 @@ My interests mostly revolve around programming, math, gaming, and comics.
 ## Current Projects
 ### 🗿 Check Out My Newest [C# PROJECT](https://github.com/Master9x3r4n/tower-of-hanoi-cs)
 ### 🏢 Newly Released: [Fantastic Dorms](https://github.com/Master9x3r4n/fantastic-dorms)
-### ⚙️ Currently Working On: Surviving 
+### ⚙️ Currently Working On: Magic: The Gathering Network Protocol
 
