@@ -8,7 +8,7 @@ GitHub stats from [Gitpeek](https://gitpk.vercel.app/?username=Master9x3r4n)
 
 ## Hello There! 🌊
 
-I'm <a href="https://www.linkedin.com/in/stephen-claro/">Sophia</a>, an aspiring programmer.
+I'm <a href="https://www.linkedin.com/in/stephen-claro/">Stephy</a>, an aspiring programmer.
 
 I'm currently an undergrad computer science student in DLSU Manila.
 
@@ -27,7 +27,5 @@ My interests mostly revolve around programming, math, gaming, and comics.
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,mysql,mongodb,flask,nodejs,bun,vue,svelte,tailwind)](https://skillicons.dev)
 
 ## Current Projects
-### 🗿 Check Out My Newest [C# PROJECT](https://github.com/Master9x3r4n/tower-of-hanoi-cs)
-### 🏢 Newly Released: [Fantastic Dorms](https://github.com/Master9x3r4n/fantastic-dorms)
-### ⚙️ Currently Working On: Magic: The Gathering Network Protocol
+### Currently Working On: Unity 3D game 🧙‍♂️
 
